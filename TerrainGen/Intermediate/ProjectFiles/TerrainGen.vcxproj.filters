@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\TerrainGen.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TerrainGen.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\TerrainGenEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\TerrainGen">
+      <UniqueIdentifier>{5E320485-3CE5-32F3-9B5C-1DB166A777D7}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TerrainGen\TerrainGen.Build.cs">
+      <Filter>Source\TerrainGen</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\TerrainGen\TerrainGen.cpp">
+      <Filter>Source\TerrainGen</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TerrainGen\TerrainGen.h">
+      <Filter>Source\TerrainGen</Filter>
+    </ClInclude>
+    <Filter Include="Source\TerrainGen\Private">
+      <UniqueIdentifier>{F7268ED0-3AD5-326C-B8C4-B0F14D9ED391}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\TerrainGen\Private\DLAComponent.cpp">
+      <Filter>Source\TerrainGen\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\TerrainGen\Public">
+      <UniqueIdentifier>{D811D126-5B7C-3393-9D7A-EC55A8E20D29}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\TerrainGen\Public\DLAComponent.h">
+      <Filter>Source\TerrainGen\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

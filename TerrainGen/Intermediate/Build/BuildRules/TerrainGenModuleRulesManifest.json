@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\forkRepos\\TerrainGen\\Source\\TerrainGen\\TerrainGen.Build.cs",
+		"D:\\forkRepos\\TerrainGen\\Source\\TerrainGen.Target.cs",
+		"D:\\forkRepos\\TerrainGen\\Source\\TerrainGenEditor.Target.cs"
+	],
+	"EngineVersion": "5.4.4"
+}

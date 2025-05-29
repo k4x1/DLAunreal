@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\forkrepos\\terraingen\\intermediate\\build\\win64\\unrealeditor\\inc\\terraingen\\uht\\terraingen.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\forkrepos\\terraingen\\intermediate\\build\\win64\\x64\\terraingeneditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\forkrepos\\terraingen\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\terraingen\\definitions.terraingen.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

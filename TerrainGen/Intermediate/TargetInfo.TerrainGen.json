@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "TerrainGen",
+			"Path": "..\\Source\\TerrainGen.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TerrainGenEditor",
+			"Path": "..\\Source\\TerrainGenEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
